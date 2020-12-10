@@ -193,7 +193,7 @@
      * See {@link template:markdown}
      *
      */
-    Handlebars.registerHelper("filter", function () {
+    Handlebars.handlebars.registerHelper("filter", function () {
       var args = Array.prototype.slice.call(arguments),
         options = args.pop(),
         str;
