@@ -1,5 +1,5 @@
 {
-    "name": "handlebars.filter",
+    "name": "handlebars-filter",
     "description": "Handlebars filter helper",
     "version": "1.0.1",
     "main": "handlebars.filter.js",
